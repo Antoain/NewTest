@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFInsert", "EFInsert\EFInsert.csproj", "{E74E1440-58CA-4FF5-907C-CF314234BC39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccesoDadtos", "AccesoDadtos\AccesoDadtos.csproj", "{7651E926-5F20-4CB4-8369-4ACD859187A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E74E1440-58CA-4FF5-907C-CF314234BC39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E74E1440-58CA-4FF5-907C-CF314234BC39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E74E1440-58CA-4FF5-907C-CF314234BC39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E74E1440-58CA-4FF5-907C-CF314234BC39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7651E926-5F20-4CB4-8369-4ACD859187A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7651E926-5F20-4CB4-8369-4ACD859187A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7651E926-5F20-4CB4-8369-4ACD859187A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7651E926-5F20-4CB4-8369-4ACD859187A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5273AA89-95EE-4000-AFD3-A8461A098761}
+	EndGlobalSection
+EndGlobal
